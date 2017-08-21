@@ -5,7 +5,8 @@
 *Originally Published for OpenHack@Malmö2015*
 
 ### Hackathon projects addressing challenge
-https://github.com/OpenHackC4H/cesium-ushahidi
+* FuzzyData - [OpenHack 2015 in Malmö](../Hackathons/2015_Malmo/2015_Malmo_Summary.md)
+* 3dGlobe - Ushahidi - [OpenHack 2015 in Malmö](../Hackathons/2015_Malmo/2015_Malmo_Summary.md)
 
 ### Author
 Jessica Shorland,<br>

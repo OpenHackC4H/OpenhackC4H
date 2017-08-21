@@ -4,6 +4,12 @@
 
 *Originally Published for OpenHack@Lund2016*
 
+### Hackathon projects addressing challenge
+* Ant-Bears - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+* Charity-Q - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+* Mechanical Heart - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+* CharityMatch - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+
 ### Author
 Jakob Gelberg,<br>
 CEO, <br>

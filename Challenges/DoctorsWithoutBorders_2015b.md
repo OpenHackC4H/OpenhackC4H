@@ -6,6 +6,9 @@
 
 *”What we need is a streamlined integration and execution platform that enables a simple process to develop, manage, monitor and extend systems, integrations, data flows and data synchronization for global projects in low resource areas and geographically dispersed IT environment.”*
 
+### Hackathon projects addressing challenge
+* Cold Chain Sensors - [OpenHack 2015 in Malmö](../Hackathons/2015_Malmo/2015_Malmo_Summary.md)
+
 ### Author
 Claes-Philip Staiger,<br>
 Technical specialist and advisor,<br>

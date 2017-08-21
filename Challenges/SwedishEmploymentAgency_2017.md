@@ -1,8 +1,13 @@
 # Swedish Employment Agency
 
-## How to turn a disability into a skill – case contributed by Arbetsförmedlingen
+## How to turn a disability into a skill
 
 *Originally Published for OpenHack@Uppsala2017*
+
+### Hackathon projects addressing challenge
+* BestFit - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* Craft Academy - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* Kake - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
 
 ### Author
 Olle Lundin, <br>

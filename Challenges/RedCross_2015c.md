@@ -1,6 +1,6 @@
 # Red Cross
 
-## Digitalisation of the tracing request form
+## Digitalization of the tracing request form
 
 *Originally Published for OpenHack@Malmö2015*
 

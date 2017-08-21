@@ -1,8 +1,16 @@
 # UNHCR
 
-## Minimizing discrimination in the hiring process - case contributed by UNHCR
+## Minimizing discrimination in the hiring process
 
 *Originally Published for OpenHack@Uppsala2017*
+
+### Hackathon projects addressing challenge
+* Felix Pinche - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* MachinNim - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* Skill Matcher - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* Skillset - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* Space ponies - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
+* Job hunter - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
 
 ### Author
 David Gunther, <br>

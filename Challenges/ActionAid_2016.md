@@ -4,6 +4,9 @@
 
 *Originally Published for OpenHack@Lund2016*
 
+### Hackathon projects addressing challenge
+* TakeAction - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+
 ### Author
 Mattias Brunander,<br>
 Policy and International programs,<br>

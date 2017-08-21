@@ -4,6 +4,10 @@
 
 *Originally Published for OpenHack@Lund2016*
 
+### Hackathon projects addressing challenge
+* Data-Universe - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+* Jobsweeper - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+
 ### Author
 Olle Lundin, <br>
 Digital Innovation Manager,<br>

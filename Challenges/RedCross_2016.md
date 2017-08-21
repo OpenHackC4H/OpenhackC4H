@@ -4,6 +4,9 @@
 
 *Originally Published for OpenHack@Lund2016*
 
+### Hackathon projects addressing challenge
+* Instant Volunteer - [OpenHack 2016 in Lund](../Hackathons/2016_Lund/2016_Lund_Summary.md)
+
 ### Author
 Prashan Thalayasingam,<br>
 Advisor- Community Engagement and Accountability<br>
