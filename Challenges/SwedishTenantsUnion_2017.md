@@ -5,6 +5,8 @@
 *Originally Published for OpenHack@Gothenburg2017*
 
 ### Hackathon projects addressing challenge
+* Pinguin - [OpenHack 2017 in Gothenburg](../Hackathons/2017_Gotheburg/2017_Gothenburg_Summary.md)
+* Dj Technology - [OpenHack 2017 in Gothenburg](../Hackathons/2017_Gotheburg/2017_Gothenburg_Summary.md)
 
 ### Author
 Carl-Johan Bergström,<br>
