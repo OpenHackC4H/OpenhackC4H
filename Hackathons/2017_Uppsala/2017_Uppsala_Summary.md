@@ -45,10 +45,10 @@
   * Challenge: [JustArrived](../Challenges/JustArrived_2017.md)
   * Description:  To simplify the application and integration process for newly arrived.
   * Resources: [Presentation](Presentations/Landing.pdf) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Landing)
-* WithRefugees | **Winner - Best Pitch**
+* Skillset Recruitment by Team Shotgun Sorters | **Winner - Best Pitch**
   * Challenge: [UNHCR](../Challenges/UNHCR_2017.md)
   * Description: Eliminating unconsciously discriminating in the hiring process by matching employers to the best applicant according to their skill-level.
-  * Resources: [Presentation](Presentations/WithRefugees.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-WithRefugees)
+  * Resources: [Presentation](Presentations/SkillsetRecruitment.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-SkillsetRecruitment)
 * Space ponies
   * Challenge: [UNHCR](../Challenges/UNHCR_2017.md)
   * Description: A platform for anonymising the job seeking platform to take better advantage of skills otherwise neglected through hidden bias.
