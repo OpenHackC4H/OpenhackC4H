@@ -42,6 +42,10 @@
   * Challenge: [i3tex](../Challenges/i3tex_2017.md)
   * Description: A web app where all information the parent want to send to the network of caretakers exists in one place.
   * Resources: [Presentation](Presentations/CareFlow.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Gothenburg-CareFlow)
+* Crowd Path | **Winner - Best Social/Humanitarian Impact**
+  * Challenge: [Individuell Människohjälp (IM)](../Challenges/IM_2017.md) and [JustArrived](../Challenges/JustArrived_2017.md
+  * Description: Gather and promote relevant information for starting a life in Sweden.
+  * Resources: [Presentation]( https://prezi.com/view/30Ty1euUFruCUacjIBuk/) | [Source code](https://github.com/OpenHackC4H/2017-Gothenburg-Crowdpath)
 
 ## Sponsors and Partner
 [Sigma Technology](http://sigmatechnology.se/), [Chalmers Ventures](http://www.chalmersventures.com/), [Engineers Without Borders](http://www.ingenjorerutangranser.se/), [Öredev](http://www.oredev.org/2017), [ITEAM](https://iteam.se/), [lin Education](http://lineducation.se/), [wibrick](http://wibrick.se/), [46elks](https://46elks.com/)
