@@ -8,18 +8,18 @@ During the weekend participants could stretch the joints and muscles during yoga
 After 48 intense hours 12 teams presented their achievements in-front of a diverse and competent jury. The solutions proposals and prototypes ranged from IOT hardware with connecting back-end, and complex data-mining with IBM Watson, to 3D graphic data visualization, and mobile apps for with social media functionality.
 
 ## Challenges
-* [ActionAid](../Challenges/ActionAid_2015.md) - Transform material into different apps.
-* [Danish Refugee Council](../Challenges/DanishRefugeeCouncil_2015.md) - Number of Refugees and Where?
-* [Doctors Without Borders](../Challenges/DoctorsWithoutBorders_2015a.md) - Improving Access to Information for Refugees and Migration.
-* [Doctors Without Borders](../Challenges/DoctorsWithoutBorders_2015b.md)) - Platform for Data Transmission/Synchronization, Integration and Monitoring.
-* [Red Cross](../Challenges/RedCross_2015a.md) - Strengthened volunteer management. A better way to match volunteers with the right skills to local needs / activities.
-* [Red Cross](../Challenges/RedCross_2015b.md) - Donor application – digitalization of counterfoils for recruiting monthly donors.
-* [Red Cross](../Challenges/RedCross_2015c.md)) - Digitalization of the tracing request form.
-* [RefugeeTech](../Challenges/RefugeeTech_2015.md) - Enabling newcomers to build a relevant professional network in Sweden
-* [SIDA](../Challenges/SIDA_2015.md) - Will the money reach its intended destination and with what impact?
-* [TechFugees](../Challenges/TechFugees_2015.md) - The Refugee Crisis
-* [UNICEF](../Challenges/UNICEF_2015.md) - Registration of children from remote areas.
-* [Ushahidi](../Challenges/Ushahidi_2015.md) - A generic framework for extending and adding new capabilities to any system or integration process. Development of new integration / data synchronization flows with automatic logging and monitoring using node red platform.
+* [ActionAid](../../Challenges/ActionAid_2015.md) - Transform material into different apps.
+* [Danish Refugee Council](../../Challenges/DanishRefugeeCouncil_2015.md) - Number of Refugees and Where?
+* [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders_2015a.md) - Improving Access to Information for Refugees and Migration.
+* [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders_2015b.md)) - Platform for Data Transmission/Synchronization, Integration and Monitoring.
+* [Red Cross](../../Challenges/RedCross_2015a.md) - Strengthened volunteer management. A better way to match volunteers with the right skills to local needs / activities.
+* [Red Cross](../../Challenges/RedCross_2015b.md) - Donor application – digitalization of counterfoils for recruiting monthly donors.
+* [Red Cross](../../Challenges/RedCross_2015c.md)) - Digitalization of the tracing request form.
+* [RefugeeTech](../../Challenges/RefugeeTech_2015.md) - Enabling newcomers to build a relevant professional network in Sweden
+* [SIDA](../../Challenges/SIDA_2015.md) - Will the money reach its intended destination and with what impact?
+* [TechFugees](../../Challenges/TechFugees_2015.md) - The Refugee Crisis
+* [UNICEF](../../Challenges/UNICEF_2015.md) - Registration of children from remote areas.
+* [Ushahidi](../../Challenges/Ushahidi_2015.md) - A generic framework for extending and adding new capabilities to any system or integration process. Development of new integration / data synchronization flows with automatic logging and monitoring using node red platform.
 
 ## Projects
 * Alfred EyeShopper
@@ -32,22 +32,22 @@ After 48 intense hours 12 teams presented their achievements in-front of a diver
   * Challenge: Own
   * Resources: [Presentation](https://monosnap.com/file/Ff2NgZu6gqnxhGb86vSODKENxkpb5e#) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-Cancerless)
 * Cold Chain Sensors | **Winners - Best humanitarian solution & People's choice**
-  * Challenge: [Doctors Without Borders](../Challenges/DoctorsWithoutBorders_2015b.md))
+  * Challenge: [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders_2015b.md))
   * Resources: [Presentation](Presentation/ColdChainSensors.pptx) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-Cold-Chain-Sensors)
 * FuzzyData | **Winners - Best open source contribution**
-  * Challenge: [Ushahidi](../Challenges/Ushahidi_2015.md)
+  * Challenge: [Ushahidi](../../Challenges/Ushahidi_2015.md)
   * Resources: [Presentation](Presentation/FuzzyData.pdf) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-FuzzyData)
 * HejJobb
   * Challenge: Own
   * Resources: [Presentation](Presentation(HejJobb.docx)
 * Jujube by Treeview | **Winner - Best Gamification**
-  * Challenge: [ActionAid](../Challenges/ActionAid_2015.md)
+  * Challenge: [ActionAid](../../Challenges/ActionAid_2015.md)
   * Resources: [Presentation](Presentation/Jujube.pptx)
 * Refugees without borders
 * Team Jayway
   * Challenge: Own
 * 3dGlobe - Ushahidi
-  * Challenge: [Ushahidi](../Challenges/Ushahidi_2015.md)
+  * Challenge: [Ushahidi](../../Challenges/Ushahidi_2015.md)
   * Resources: [Presentation](Presentation/3dGlobeUshahidi.pdf) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-3dGlobe-Ushahidi)
 
 ## Sponsors and Partners
