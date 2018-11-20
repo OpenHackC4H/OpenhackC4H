@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script>
+        var xhr = new XMLHttpRequest();
+        var url = 'http://127.0.0.1:8080';
+
+        xhr.open('GET', url);
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                var response = JSON.parse(xhr.responseText);
+                // console.log(response);
+                var div = document.getElementById("data");
+                div.innerHTML = "";
+                var title = "";
+                var description = "";
+
+                for (var i = 0; i < response["iati-activities"].length; i++) {
+                    title = getTitle(response["iati-activities"][i]);
+                    description = getDescription(response["iati-activities"][i]);
+
+                    div.innerHTML += "<b>" + title + "</b>";
+                    div.innerHTML += "</br>";
+                    div.innerHTML += description;
+                    div.innerHTML += "</br>";
+                    div.innerHTML += "</br>";
+                }
+            }
+            else {
+                console.log('Request failed.  Returned status of ' + xhr.status);
+            }
+        }
+        xhr.send();
+
+        function getTitle(activity) {
+            var title = activity["iati-activity"].title;
+
+            if (typeof title === 'object' && title !== null) {
+                title = title.narrative;
+            } else {
+                title = typeof string && title === null ? 'No title' : title;
+            }
+            return title;
+        }
+
+        function getDescription(activity) {
+            var description = activity["iati-activity"].description;
+
+            if (typeof description === 'object' && description !== null) {
+                description = description.constructor === Array ? description[0].narrative : description.narrative;
+            }
+            if (typeof description === 'undefined' || description === null) {
+                description = 'No description available';
+            }
+            description = description.constructor === Array ? description[0] : description;
+
+            return description;
+        }
+    </script>
+</head>
+
+<body>
+    <div id="data">loading data...</div>
+
+</body>
+
+</html>
