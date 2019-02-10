@@ -10,6 +10,9 @@ Technical specialist and advisor,<br>
 Médecins Sans Frontières,<br>
 https://lakareutangranser.se/
 
+### Projects addressing challenge
+[Cold Chain Sensors](https://github.com/OpenHackC4H/2015-Malmo-Cold-Chain-Sensors)
+
 ### Background
 The International Organization for Migration calls Europe the most dangerous destination for irregular migration in the world and the Mediterranean the world’s most dangerous border crossing. It is clear that the refugees live in a very insecure situation and face numerous threats on their way. The great strain they go through compounded by lack of access to reliable information causes them an extreme level of stress.
 
