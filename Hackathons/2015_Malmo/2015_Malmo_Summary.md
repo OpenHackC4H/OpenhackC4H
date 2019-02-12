@@ -1,28 +1,22 @@
-# OpenHack 4-6/12 2015 in Malmö
-This was the first ever OpenHack! It was held in Malmö at the office of [Jayway](http://jayway.se) with about 80 participants. The teams were very diverse and contained students from high school and university, as well as entrepreneurs and every-day-workers. The participants was split about half and half between Danes and Swedes, but also included other nationalities, including newly arrived from Syria and Yemen.
-
-The general theme of the hackathon concerned humanitarian aid with an indirect focus on the refugee crisis which was a very active topic during the time. Teams had the opportunity to take on challenges from a number of aid organizations, as well as form a Kenyan-driven open source project called [Ushahidi](http://www.ushahidi.com), which had representatives on-site from Nairobi.
-
-During the weekend participants could stretch the joints and muscles during yoga-sessions, relax their brains with pool, dart or video games, and shill out with some live DJ-lounge music. Technical coaches and representatives from the aid organizations circulated to help the teams with issues and focusing their work.
-
-After 48 intense hours 12 teams presented their achievements in-front of a diverse and competent jury. The solutions proposals and prototypes ranged from IOT hardware with connecting back-end, and complex data-mining with IBM Watson, to 3D graphic data visualization, and mobile apps for with social media functionality.
+# Openhack 2015 in Malmö
+This was the first ever openhack! It was held in Malmö at the office of [Jayway](http://jayway.se) between the 45h - 6th of December.
 
 ## Challenges
-* [ActionAid](../../Challenges/ActionAid_2015.md) - Transform material into different apps.
-* [Danish Refugee Council](../../Challenges/DanishRefugeeCouncil_2015.md) - Number of Refugees and Where?
+* [ActionAid](../../Challenges/ActionAid/ActionAid_2015.md) - Transform material into different apps.
+* [Danish Refugee Council](../../Challenges/DanishRefugeeCouncil/DanishRefugeeCouncil_2015.md) - Number of Refugees and Where?
 * [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders_2015a.md) - Improving Access to Information for Refugees and Migration.
-* [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders_2015b.md)) - Platform for Data Transmission/Synchronization, Integration and Monitoring.
-* [Red Cross](../../Challenges/RedCross_2015a.md) - Strengthened volunteer management. A better way to match volunteers with the right skills to local needs / activities.
-* [Red Cross](../../Challenges/RedCross_2015b.md) - Donor application – digitalization of counterfoils for recruiting monthly donors.
-* [Red Cross](../../Challenges/RedCross_2015c.md)) - Digitalization of the tracing request form.
-* [RefugeeTech](../../Challenges/RefugeeTech_2015.md) - Enabling newcomers to build a relevant professional network in Sweden
-* [SIDA](../../Challenges/SIDA_2015.md) - Will the money reach its intended destination and with what impact?
-* [TechFugees](../../Challenges/TechFugees_2015.md) - The Refugee Crisis
-* [UNICEF](../../Challenges/UNICEF_2015.md) - Registration of children from remote areas.
-* [Ushahidi](../../Challenges/Ushahidi_2015.md) - A generic framework for extending and adding new capabilities to any system or integration process. Development of new integration / data synchronization flows with automatic logging and monitoring using node red platform.
+* [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders/DoctorsWithoutBorders_2015b.md)) - Platform for Data Transmission/Synchronization, Integration and Monitoring.
+* [Red Cross](../../Challenges/RedCross/RedCross_2015a.md) - Strengthened volunteer management. A better way to match volunteers with the right skills to local needs / activities.
+* [Red Cross](../../Challenges/Redcross/RedCross_2015b.md) - Donor application – digitalization of counterfoils for recruiting monthly donors.
+* [Red Cross](../../Challenges/RedCross/RedCross_2015c.md)) - Digitalization of the tracing request form.
+* [RefugeeTech](../../Challenges/RefugeeTech/RefugeeTech_2015.md) - Enabling newcomers to build a relevant professional network in Sweden
+* [SIDA](../../Challenges/sida/SIDA_2015.md) - Will the money reach its intended destination and with what impact?
+* [TechFugees](../../Challenges/TechFugees/TechFugees_2015.md) - The Refugee Crisis
+* [UNICEF](../../Challenges/UNICEF/UNICEF_2015.md) - Registration of children from remote areas.
+* [Ushahidi](../../Challenges/Ushahidi/Ushahidi_2015.md) - A generic framework for extending and adding new capabilities to any system or integration process. Development of new integration / data synchronization flows with automatic logging and monitoring using node red platform.
 
-## Projects
-* Alfred EyeShopper
+## Teams
+[Alfred EyeShopper](https://github.com/OpenHackC4H/2015-Malmo-Alfred-the-iShopper)
   * Challenge: Own
   * Resources: [Source code](https://github.com/OpenHackC4H/2015-Malmo-Alfred-the-iShopper)
 * Awareness by Dea Design | **Winners - Best visualization**
