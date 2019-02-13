@@ -17,12 +17,12 @@ This was the first ever openhack! It was held in Malmö at the office of [Jayway
 
 ## Teams
 * [Alfred EyeShopper](https://github.com/OpenHackC4H/2015-Malmo-Alfred-the-iShopper)
-* [Awareness by Dea Design](Presentation/Awareness.pptx)| **Winners - Best visualization**
+* [Awareness by Dea Design](Presentations/Awareness.pptx)| **Winners - Best visualization**
 * [Cancerless](https://github.com/OpenHackC4H/2015-Malmo-Cancerless)
 * [Cold Chain Sensors](https://github.com/OpenHackC4H/2015-Malmo-Cold-Chain-Sensors) | **Winners - Best humanitarian solution & People's choice**
 * [FuzzyData](https://github.com/OpenHackC4H/2015-Malmo-FuzzyData) | **Winners - Best open source contribution**
-* [HejJobb](Presentation/HejJobb.docx)
-* [Jujube by Treeview](Presentation/Jujube.pptx) | **Winner - Best Gamification**
+* [HejJobb](Presentations/HejJobb.docx)
+* [Jujube by Treeview](Presentations/Jujube.pptx) | **Winner - Best Gamification**
 * [3dGlobe - Ushahidi](https://github.com/OpenHackC4H/2015-Malmo-3dGlobe-Ushahidi)
 
 ## Sponsors and Partners
