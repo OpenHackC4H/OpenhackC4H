@@ -16,33 +16,14 @@ This was the first ever openhack! It was held in Malmö at the office of [Jayway
 * [Ushahidi](../../Challenges/Ushahidi/Ushahidi_2015.md) - A generic framework for extending and adding new capabilities to any system or integration process. Development of new integration / data synchronization flows with automatic logging and monitoring using node red platform.
 
 ## Teams
-[Alfred EyeShopper](https://github.com/OpenHackC4H/2015-Malmo-Alfred-the-iShopper)
-  * Challenge: Own
-  * Resources: [Source code](https://github.com/OpenHackC4H/2015-Malmo-Alfred-the-iShopper)
-* Awareness by Dea Design | **Winners - Best visualization**
-  * Challenge: Own
-  * Resources: [Presentation](Presentation/Awareness.pptx)
-* Cancerless
-  * Challenge: Own
-  * Resources: [Presentation](https://monosnap.com/file/Ff2NgZu6gqnxhGb86vSODKENxkpb5e#) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-Cancerless)
-* Cold Chain Sensors | **Winners - Best humanitarian solution & People's choice**
-  * Challenge: [Doctors Without Borders](../../Challenges/DoctorsWithoutBorders_2015b.md))
-  * Resources: [Presentation](Presentation/ColdChainSensors.pptx) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-Cold-Chain-Sensors)
-* FuzzyData | **Winners - Best open source contribution**
-  * Challenge: [Ushahidi](../../Challenges/Ushahidi_2015.md)
-  * Resources: [Presentation](Presentation/FuzzyData.pdf) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-FuzzyData)
-* HejJobb
-  * Challenge: Own
-  * Resources: [Presentation](Presentation(HejJobb.docx)
-* Jujube by Treeview | **Winner - Best Gamification**
-  * Challenge: [ActionAid](../../Challenges/ActionAid_2015.md)
-  * Resources: [Presentation](Presentation/Jujube.pptx)
-* Refugees without borders
-* Team Jayway
-  * Challenge: Own
-* 3dGlobe - Ushahidi
-  * Challenge: [Ushahidi](../../Challenges/Ushahidi_2015.md)
-  * Resources: [Presentation](Presentation/3dGlobeUshahidi.pdf) | [Source code](https://github.com/OpenHackC4H/2015-Malmo-3dGlobe-Ushahidi)
+* [Alfred EyeShopper](https://github.com/OpenHackC4H/2015-Malmo-Alfred-the-iShopper)
+* [Awareness by Dea Design](Presentation/Awareness.pptx)| **Winners - Best visualization**
+* [Cancerless](https://github.com/OpenHackC4H/2015-Malmo-Cancerless)
+* [Cold Chain Sensors] (https://github.com/OpenHackC4H/2015-Malmo-Cold-Chain-Sensors) | **Winners - Best humanitarian solution & People's choice**
+* [FuzzyData] (https://github.com/OpenHackC4H/2015-Malmo-FuzzyData) | **Winners - Best open source contribution**
+* [HejJobb](Presentation/HejJobb.docx)
+* [Jujube by Treeview](Presentation/Jujube.pptx) | **Winner - Best Gamification**
+* [3dGlobe - Ushahidi](https://github.com/OpenHackC4H/2015-Malmo-3dGlobe-Ushahidi)
 
 ## Sponsors and Partners
 [IBM](http://ibm,se), [Jayway](http://jayway.se), [Neo Technologies](https://neo4j.com/), [VentureLab](http://www.venturelab.lu.se/), [LUFOSS](https://www.lth.se/lufoss/swedish), [LTH](https://www.lth.se/), [Lund University](http://www.lu.se/), [HyperIsland](https://www.hyperisland.com/), [Copenhagen Business School](http://www.cbs.dk/en), [University of Copenhagen](http://www.ku.dk/english/), [DTU](http://www.dtu.dk/), [Malmö University](https://www.mah.se/), [Malmö Yrkeshögskola](http://my.se/), [BTH](https://www.bth.se/), [Kristianstad University](http://www.hkr.se/en/), [Code@LTH](https://www.lth.se/code/), [DataTjej](http://datatjej.se/), [MobileHeights](http://mobileheights.org/), [FooCafé](http://foocafe.org/), [THINK](http://thinkaccelerate.com/), [Malmö Startups](http://www.malmostartups.com/), [Swedsoft](http://swedsoft.se/)
