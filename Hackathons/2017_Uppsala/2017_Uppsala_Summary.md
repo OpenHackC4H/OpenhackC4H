@@ -7,7 +7,7 @@
 
 ## Projects
 * Guidevi | **Winner - Best Technical Solution**
-  * Challenge: [JustArrived](../../Challenges/JustArrived_2017.md)
+  * Challenge: [JustArrived](../../Challenges/JustArrived/JustArrived_2017.md)
   * Description: Matching your abilities with mined skill keywords in job ads from Arbetsförmedlingen and tells you what additional skills you need in order to satisfy job requirements.
   * Resources: [Presentation](Presentations/Guidevi.pptx)
 * BestFit
@@ -19,7 +19,7 @@
   * Description: Creating a support network to help people discover hidden abilities and find a job.
   * Resources: [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Craft-Academy)
 * Hexagon
-  * Challenge: [JustArrived](../../Challenges/JustArrived_2017.md)
+  * Challenge: [JustArrived](../../Challenges/JustArrived/JustArrived_2017.md)
   * Description: Networking and crowd-improving your way into the swedish labour market.
   * Resources: [Presentation](Presentations/Hexagon.pptx) | [Prototype](https://projects.invisionapp.com/share/C9C02L8MG#/screens)
 * Felix Pinche | Winner - People's Choice
@@ -38,11 +38,11 @@
   * Description: User friendly, anonymous competences matching service.
   * Resources: [Presentation](Presentations/SkillMatcher.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Skillmatcher)
 * Perpetual Projects
-  * Challenge: [JustArrived](../../Challenges/JustArrived_2017.md)
+  * Challenge: [JustArrived](../../Challenges/JustArrived/JustArrived_2017.md)
   * Description: An application where people having found a job in Sweden can write a guide on how they got their job to future job seekers.
   * Resources: [Presentation](Presentations/PerpetualProjects.odp) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Perpetual-Projects)
 * Landing
-  * Challenge: [JustArrived](../../Challenges/JustArrived_2017.md)
+  * Challenge: [JustArrived](../../Challenges/JustArrived/JustArrived_2017.md)
   * Description:  To simplify the application and integration process for newly arrived.
   * Resources: [Presentation](Presentations/Landing.pdf) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Landing)
 * Skillset Recruitment by Team Shotgun Sorters | **Winner - Best Pitch**
