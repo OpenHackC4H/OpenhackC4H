@@ -7,7 +7,7 @@
 ### Hackathon projects addressing challenge
 * Guidevi - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
 * Hexagon - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
-* Perpetual Projects - [OpenHack 2017 in Uppsala](/2017-Uppsala-Perpetual-Projects)
+* Perpetual Projects - [OpenHack 2017 in Uppsala](/2017-Uppsala-Perpetual-Projects.git)
 2017-Uppsala-Perpetual-Projects
 * Landing - [OpenHack 2017 in Uppsala](../Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
 
