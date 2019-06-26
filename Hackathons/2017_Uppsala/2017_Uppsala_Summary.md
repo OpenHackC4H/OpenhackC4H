@@ -11,11 +11,11 @@
   * Description: Matching your abilities with mined skill keywords in job ads from Arbetsförmedlingen and tells you what additional skills you need in order to satisfy job requirements.
   * Resources: [Presentation](Presentations/Guidevi.pptx)
 * BestFit
-  * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency_2017.md)
+  * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency/SwedishEmploymentAgency_2017.md)
   * Description: A centralized platform that anonymously connects job seekers and companies together, by evaluating, both, their professional skills and personal qualities.
   * Resources: [Presentation](Presentations/BestFit.pptx)
 * Craft Academy
-  * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency_2017.md)
+  * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency/SwedishEmploymentAgency_2017.md)
   * Description: Creating a support network to help people discover hidden abilities and find a job.
   * Resources: [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Craft-Academy)
 * Hexagon
@@ -26,7 +26,7 @@
   * Challenge: [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md)
   * Description: An IMDB-style of database where everybody can see the rating and statistics of a Company, university, project; specifically statistics estimating the level of mismanagement, nepotism and corruption in Swedish workplaces which are the vis-à-vis of discrimination.
 * Kake
-  * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency_2017.md)
+  * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency/SwedishEmploymentAgency_2017.md)
   * Description: Platform matching job-seekers to job-positions based on the concrete skills the employer needs.
   * Resources: [Presentation](Presentations/Kake.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Kake)
 * MachinNim
