@@ -66,7 +66,7 @@
 [Academic Work](https://www.academicwork.se/), [Spotify](https://www.spotify.com/se/), [Interactive Solutions](https://interactivesolutions.se/), [Knitghtec](http://www.knightec.se/), [Base10](https://www.facebook.com/base10uppsala/), [VivaMedia](https://vivamedia.se/), [Uppsala Student Union](https://www.utn.se/en), [Uppsala Municipality](https://www.uppsala.se/), [KFUM Uppsala](http://uppsala.kfum.se/om-oss/kfum-uppsala-idag/), [Swedish Innovation Compass](http://swedishinnovationcompass.com/?lang=sv), [Impact Hub Stockholm](http://www.impacthub.net/), [Entrepreneurship Academy](http://www.entrepreneursacademy.se/), [Campus1477](http://campus1477.se/sv/), [Campusbokhandeln](https://campusbokhandeln.se/), [46Elks](https://46elks.se/), [Animech Technologies](http://www.animechtechnologies.com/start), [Creatify](http://www.creatify.se/), [Profil & Kontor](http://www.knkontor.se/), [Barebells](https://barebells.se/), [Caliente](http://www.drink-caliente.com/), [Naka](http://www.nakafocus.se/), [Clarion Hotel](http://www.clarion.nu/)
 
 ## Jury
-Olle Lundin (Arbetsförmedlingen), Lukas Leander (Ingenjörer Utan Gränser), Jonne Kuusela (Interaktive Solutions)
+Olle Lundin (Arbetsförmedlingen), Lukas Leander (Engineers without Borders), Emil Paulsson (Interactive Solutions, Björn Victor (Professor in Computing Science at Uppsala Univeristy), Tjark Weber (Professor in Comouter Science Uppsala University)
 
 ## Organizing team
 Nike Hiller, Karin Johansson, Lisbet Ersson, Elin Swedin, Axel Iveroth, Hedvig Sylwan, Krzysztof Jagiello, Johan Törngren
