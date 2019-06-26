@@ -3,7 +3,7 @@
 ## Challenges
 * [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md) - Minimizing discrimination in the hiring process
 * [JustArrived](../../Challenges/JustArrived/JustArrived_2017.md) - Crowdsourced knowledge
-* [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency_2017.md) - How to turn a disability into a skill
+* [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency/SwedishEmploymentAgency_2017.md) - How to turn a disability into a skill
 
 ## Projects
 * Guidevi | **Winner - Best Technical Solution**
