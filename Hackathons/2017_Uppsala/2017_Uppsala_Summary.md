@@ -1,4 +1,4 @@
-# OpenHack 2017 in Uppsala
+# Openhack 2017 in Uppsala
 
 ## Challenges
 * [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md) - Minimizing discrimination in the hiring process
@@ -23,18 +23,18 @@
   * Description: Networking and crowd-improving your way into the swedish labour market.
   * Resources: [Presentation](Presentations/Hexagon.pptx) | [Prototype](https://projects.invisionapp.com/share/C9C02L8MG#/screens)
 * Felix Pinche | Winner - People's Choice
-  * Challenge: [UNHCR](../../Challenges/UNHCR_2017.md)
+  * Challenge: [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md)
   * Description: An IMDB-style of database where everybody can see the rating and statistics of a Company, university, project; specifically statistics estimating the level of mismanagement, nepotism and corruption in Swedish workplaces which are the vis-à-vis of discrimination.
 * Kake
   * Challenge: [Swedish Employment Agency](../../Challenges/SwedishEmploymentAgency_2017.md)
   * Description: Platform matching job-seekers to job-positions based on the concrete skills the employer needs.
   * Resources: [Presentation](Presentations/Kake.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Kake)
 * MachinNim
-  * Challenge: [UNHCR](../../Challenges/UNHCR_2017.md)
+  * Challenge: [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md)
   * Description: Remove discrimination grounds and instead focus on sought after properties.
   * Resources: [Source code](https://github.com/OpenHackC4H/2017-Uppsala-MachinNim)
 * Skill Matcher
-  * Challenge: [UNHCR](../../Challenges/UNHCR_2017.md)
+  * Challenge: [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md)
   * Description: User friendly, anonymous competences matching service.
   * Resources: [Presentation](Presentations/SkillMatcher.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Skillmatcher)
 * Perpetual Projects
@@ -46,7 +46,7 @@
   * Description:  To simplify the application and integration process for newly arrived.
   * Resources: [Presentation](Presentations/Landing.pdf) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-Landing)
 * Skillset Recruitment by Team Shotgun Sorters | **Winner - Best Pitch**
-  * Challenge: [UNHCR](../../Challenges/UNHCR_2017.md)
+  * Challenge: [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md)
   * Description: Eliminating unconsciously discriminating in the hiring process by matching employers to the best applicant according to their skill-level.
   * Resources: [Presentation](Presentations/SkillsetRecruitment.pptx) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-SkillsetRecruitment)
 * Space ponies
@@ -58,7 +58,7 @@
   * Description: Educational platform for refugees in camps.
   * Resources: [Presentation](Presentations/SyrianYouthRebirth.pptx)
 * JobHunter
-  * Challenge: [UNHCR](../../Challenges/UNHCR_2017.md)
+  * Challenge: [UNHCR](../../Challenges/UNHCR/UNHCR_2017.md)
   * Description: Skipping cv and interview process with Tinder-like calibration AI driven process and three ways rating system.
   * Resources: [Presentation](https://prezi.com/view/A6RX6BnojuLm2oLCr7j3/) | [Source code](https://github.com/OpenHackC4H/2017-Uppsala-JobHunter)
 
