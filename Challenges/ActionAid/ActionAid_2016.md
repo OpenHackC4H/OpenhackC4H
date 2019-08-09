@@ -2,7 +2,7 @@
 
 ## New digital means of engagement with ActionAid on issues of solidarity and social justice
 
-* Originally Published for openhack @Lund2016 *
+*Originally published for openhack @Lund2016*
 
 ### Hackathon projects addressing challenge
 
