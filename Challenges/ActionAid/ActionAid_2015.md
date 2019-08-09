@@ -11,9 +11,7 @@ Originally Published for openhack @Malmö2015
 ### Author
 
 Mattias Brunander
-
-# Markdown heading
-
+[space]
 Policy and International programs
 ActionAid
 <http://actionaid.se/>
