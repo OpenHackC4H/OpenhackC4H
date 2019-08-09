@@ -2,7 +2,7 @@
 
 ## Transform material into different apps
 
-Originally Published for openhack @Malmö2015*
+Originally Published for openhack @Malmö2015
 
 ### Hackathon projects addressing challenge
 
@@ -11,6 +11,7 @@ Originally Published for openhack @Malmö2015*
 ### Author
 
 Mattias Brunander
+[EOF]
 Policy and International programs
 ActionAid
 <http://actionaid.se/>
