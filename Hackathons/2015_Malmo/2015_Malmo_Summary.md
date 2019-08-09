@@ -21,7 +21,7 @@ This was the first ever openhack! It was held in Malmö at the office of [Jayway
 * [Cancerless](https://github.com/OpenHackC4H/2015-Malmo-Cancerless)
 * [Cold Chain Sensors](https://github.com/OpenHackC4H/2015-Malmo-Cold-Chain-Sensors) | **Winners - Best humanitarian solution & People's choice**
 * [FuzzyData](https://github.com/OpenHackC4H/2015-Malmo-FuzzyData) | **Winners - Best open source contribution**
-* [HejJobb](Presentations/HejJobb.docx)
+* [HejJobb](Presentations/.~lock.HejJobb.docx#)
 * [Jujube by Treeview](Presentations/Jujube.pptx) | **Winner - Best Gamification**
 * [3dGlobe - Ushahidi](https://github.com/OpenHackC4H/2015-Malmo-3dGlobe-Ushahidi)
 
