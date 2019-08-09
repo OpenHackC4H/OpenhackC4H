@@ -6,9 +6,7 @@ Originally Published for openhack @Lund2016
 
 ### Hackathon projects addressing challenge
 
-* [TakeAction]
-
-(/2016-Lund-Takeaction-Server) - [openhack 2016 in Lund](/Hackathons/2016_Lund/2016_Lund_Summary.md)
+* [TakeAction](/2016-Lund-Takeaction-Server) - [openhack 2016 in Lund](/Hackathons/2016_Lund/2016_Lund_Summary.md)
 
 ### Author
 
