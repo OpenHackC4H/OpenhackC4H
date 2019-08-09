@@ -6,7 +6,7 @@
 
 ### Hackathon projects addressing challenge
 
-* [Jujube by Treeview](../Hackathons/2015_Malmo//Presentations/Jujube.pptx) - [openhack 2015 in Malmö](../Hackathons/2015_Malmo//2015_Malmo_Summary.md)
+* [Jujube by Treeview](../Hackathons/2015_Malmo//Presentations/Jujube.pptx) - [openhack 2015 in Malmö](../Hackathons/2015_Malmo/2015_Malmo_Summary.md)
 
 ### Author
 Mattias Brunander,<br>
