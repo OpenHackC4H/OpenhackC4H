@@ -2,7 +2,7 @@
 
 ## Transform material into different apps
 
-Originally Published for openhack @Malmö2015
+* Originally Published for openhack @Malmö2015 *
 
 ### Hackathon projects addressing challenge
 

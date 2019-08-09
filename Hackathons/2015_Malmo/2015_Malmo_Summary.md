@@ -1,5 +1,5 @@
 # Openhack 2015 in Malmö
-This was the first ever openhack! It was held in Malmö at the office of [Jayway](http://jayway.se) between the 45h - 6th of December.
+This was the first ever openhack! It was held in Malmö at the office of [Jayway](http://jayway.se) between the 4th - 6th of December.
 
 ## Challenges
 * [ActionAid](../../Challenges/ActionAid/ActionAid_2015.md) - Transform material into different apps.

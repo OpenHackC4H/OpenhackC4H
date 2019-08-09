@@ -2,11 +2,12 @@
 
 ## New digital means of engagement with ActionAid on issues of solidarity and social justice
 
-Originally Published for openhack @Lund2016
+* Originally Published for openhack @Lund2016 *
 
 ### Hackathon projects addressing challenge
 
-* [TakeAction Server](https://github.com/OpenHackC4H/2016-Lund-Takeaction-Server) [TakeAction Client](https://github.com/OpenHackC4H/2016-Lund-Takeaction-Client) - [openhack 2016 in Lund](/Hackathons/2016_Lund/2016_Lund_Summary.md)
+* [TakeAction Server](https://github.com/OpenHackC4H/2016-Lund-Takeaction-Server)
+ [TakeAction Client](https://github.com/OpenHackC4H/2016-Lund-Takeaction-Client) - [openhack 2016 in Lund](/Hackathons/2016_Lund/2016_Lund_Summary.md)
 
 ### Author
 
