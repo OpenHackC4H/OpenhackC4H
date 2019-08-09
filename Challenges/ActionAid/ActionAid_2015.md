@@ -10,11 +10,10 @@ Originally Published for openhack @Malmö2015
 
 ### Author
 
-Mattias Brunander
-[space]
-Policy and International programs
-ActionAid
-<http://actionaid.se/>
+Mattias Brunander<br>
+Policy and International programs<br>
+ActionAid<br>
+<http://actionaid.se/><br>
 
 ### Background
 

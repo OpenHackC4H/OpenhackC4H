@@ -2,7 +2,7 @@
 
 ## New digital means of engagement with ActionAid on issues of solidarity and social justice
 
-Originally Published for openhack @Lund2016*
+Originally Published for openhack @Lund2016
 
 ### Hackathon projects addressing challenge
 
@@ -12,10 +12,10 @@ Originally Published for openhack @Lund2016*
 
 ### Author
 
-Mattias Brunander
-Policy and International programs
-ActionAid
-<http://actionaid.se/>
+Mattias Brunander<br>
+Policy and International programs<br>
+ActionAid<br>
+<http://actionaid.se/><br>
 
 ### Brief description
 
