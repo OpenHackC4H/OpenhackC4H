@@ -8,8 +8,6 @@
 
 * [Jujube by Treeview](../Hackathons/2015_Malmo//Presentations/Jujube.pptx) - [OpenHack 2015 in Malmö](../Hackathons/2015_Malmo//2015_Malmo_Summary.md)
 
-* Jujube by Treeview - [OpenHack 2015 in Malmö](2015_Malmo/Presentations/Jujube.pptx)
-
 ### Author
 Mattias Brunander,<br>
 Policy and International programs,<br>
