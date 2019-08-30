@@ -5,8 +5,8 @@
 *Originally Published for OpenHack@Gothenburg2017*
 
 ### Hackathon projects addressing challenge
-* Shotgun Sorters - [OpenHack 2017 in Gothenburg](../Hackathons/2017_Gothenburg/2017_Gothenburg_Summary.md)
-* http404 - [OpenHack 2017 in Gothenburg](../Hackathons/2017_Gothenburg/2017_Gothenburg_Summary.md)
+* Shotgun Sorters - [OpenHack 2017 in Gothenburg](https://github.com/OpenHackC4H/2017-Gothenburg-ShotgunSorters)
+* http404 - [OpenHack 2017 in Gothenburg](https://github.com/OpenHackC4H/2017-Gothenburg-http404-db-api-admin)
 
 ### Author
 Sofia Sjöö, <br>
