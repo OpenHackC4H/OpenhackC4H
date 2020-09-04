@@ -5,13 +5,13 @@ In the Corona-crisis the youths were among the first to become unemployed and th
 
 2. description of the solution 	
 Solution - How you resolve the problems/meet the needs (your offer/value proposition)
-The robot will provide information that will help the youth unemployed actively, engage select a company in Swedish Employment Service, Jobb och Utvecklingsgarantin. With a business agreement between Swedish Employment Service, Our company/product and FÃ¶rebildarna creating more value to youth unemployed with events, meetings and fairs including Real role models from FÃ¶rebildarna, Avatar role models empowerment step by step way to employment and inclusion in society on Swedish Employment Service, Socialkontor, ArbetsfÃ¶rmedlingen and Kompetenscenter office spaces.    
+The robot will provide information that will help the youth unemployed actively, engage select a company in Swedish Employment Service, Jobb och Utvecklingsgarantin. With a business agreement between Swedish Employment Service, Our company/product and Förebildarna creating more value to youth unemployed with events, meetings and fairs including Real role models from Förebildarna, Avatar role models empowerment step by step way to employment and inclusion in society on Swedish Employment Service, Socialkontor, Arbetsförmedlingen and Kompetenscenter office spaces.    
 
 3. the idea
-With activity engagement via our product/and product selling which includes youths role models avatars, and the avatar ways step by step to jobs and comparness of different companies to actively choose in Jobb och utvecklingsgarantin. Role Models that have walked the way from unemployment to employment with our program together with FÃ¶rebildarna.
- And FÃ¶rebildarna contributes with a new project real role models in their â€œCase future plans 2021- address youth 15-25â€. Together we create â€œNamed XXâ€, as one â€œCase future plan 2021â€. There the youth unemployed can interact with our product and choose between different companies in Jobb and Utvecklingsgarantin and meet FÃ¶rebildarnas role models that have done the journey before them. The purpose will be to inspire the youth to arbetsmarknaden again and make their own salary. We make the events and meeting hippt, colorful and fun. 
-A combination of FÃ¶rebildarnas â€œEntreprenÃ¶riella lÃ¤rande - methodâ€ and our digital product within individual action plan movements and tips on the road in the program â€œNamed XXâ€ in Case Future Plans 2021 the youth unemployed gets individual tools manage authorities and get help on the road.  
-And the Swedish Employment Service, or KungÃ¤lvs and Lunds kommun contribute with office space and cool administrators for questionnaires from the youth. We can also have these meetings at unemployment fairs and other events where youth employed meet. Like Kompetenscenter. In the prototype and pilot of the product we take in perspectives both from the youth unemployed using our product. And the administrators at Swedish Employment Service developing the BETA product and concept to be a better launch version.      
+With activity engagement via our product/and product selling which includes youths role models avatars, and the avatar ways step by step to jobs and comparness of different companies to actively choose in Jobb och utvecklingsgarantin. Role Models that have walked the way from unemployment to employment with our program together with Förebildarna.
+ And Förebildarna contributes with a new project real role models in their â€œCase future plans 2021- address youth 15-25. Together we create â€œNamed XXâ€, as one â€œCase future plan 2021. There the youth unemployed can interact with our product and choose between different companies in Jobb and Utvecklingsgarantin and meet Förebildarna role models that have done the journey before them. The purpose will be to inspire the youth to arbetsmarknaden again and make their own salary. We make the events and meeting hippt, colorful and fun. 
+A combination of Förebildarna â€œEntreprenÃ¶riella lärande - methodâ€ and our digital product within individual action plan movements and tips on the road in the program â€œNamed XXâ€ in Case Future Plans 2021 the youth unemployed gets individual tools manage authorities and get help on the road.  
+And the Swedish Employment Service, or KungÄlvs and Lunds kommun contribute with office space and cool administrators for questionnaires from the youth. We can also have these meetings at unemployment fairs and other events where youth employed meet. Like Kompetenscenter. In the prototype and pilot of the product we take in perspectives both from the youth unemployed using our product. And the administrators at Swedish Employment Service developing the BETA product and concept to be a better launch version.      
 
 
 3b. which stands behind the code
@@ -40,12 +40,12 @@ Data Analyst (Business Intelligence Developer)
 
 4. Contact info for the team
 Ann-Sofie Johansson
-HÃ¤llebergsgatan 56 lgh:1202
+Hällebergsgatan 56 lgh:1202
 442 54 Ytterby
 Tel: 0702-539115
 E-mail: annsofie.johansson23@gmail.com
 
-5. File with the developed solutionâ€™s code 
+5. File with the developed solution's code 
 Alvin - 
 
 6.  Open source license
@@ -59,4 +59,4 @@ Working in progress.
 
 
  #problem-solving #innovation #rolemodels #younginfluence 
- #youthunemployment #coronacrisis #swedishemploymentservice #Förebildarna #Västra Götalandsregionen#Codeforhumanity #youthactivityness #welfaresystem #economic #Team_save600000unemployed #ChalmersVenturesStartupCamp #Vinnova #HacktheCrisis #Savelivesconceptsolution #Empowerment #activengage #Rolemodels #Avatars #EntreprenÃ¶riellt lÃ¤rande #Collaboration #Jobb och Utvecklingsgarantin #Globalgoals2030 #Social Impact #Social and economic sustainability #Hackathon  
+ #youthunemployment #coronacrisis #swedishemploymentservice #Förebildarna #Västra Götalandsregionen#Codeforhumanity #youthactivityness #welfaresystem #economic #Team_save600000unemployed #ChalmersVenturesStartupCamp #Vinnova #HacktheCrisis #Savelivesconceptsolution #Empowerment #activengage #Rolemodels #Avatars #Entreprenäriellt lärande #Collaboration #Jobb och Utvecklingsgarantin #Globalgoals2030 #Social Impact #Social and economic sustainability #Hackathon  
