@@ -1,4 +1,3 @@
-Read me Auto recycler
 
 
 Problem: people are not recycling enough nowadays. Laziness is the problem
