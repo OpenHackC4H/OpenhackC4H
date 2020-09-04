@@ -1,4 +1,5 @@
 Ease of recycling app
+https://github.com/lucasnordic/BarcodeQRScanner
 
 Problem:
 Manufacture companies are not encouraged to use recycled materials.
