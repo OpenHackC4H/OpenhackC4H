@@ -3,7 +3,7 @@ This Github repo contains information and resources by and for the openhack comm
 
 ## What we need to see in your folder:
 * Read me file: problem description, solution description, contact info of at least 1 team member, preferably PM of the team.
-* File with the developed solution’s code 
+* A file with the solution’s code 
 * Open source license
 * Presentation (optional)
 * BONUS: in README the team is encouraged to add some hashtags connected to the topic (#healthcare/#environment/#economicjustice).
