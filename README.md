@@ -1,13 +1,13 @@
 # Openhack - Coding for Humanity
 This Github repo contains information and resources by and for the openhack community. For more information, visit our website at http://openhack.io
 
-What we need in the folder:
-* Read me file: problem description, solution description, main programming languages used, contact info of at least 1 team member, preferably PM of the team.
+## What we need to see in your folder:
+* Read me file: problem description, solution description, contact info of at least 1 team member, preferably PM of the team.
 * File with the developed solution’s code 
 * Open source license
 * Presentation (optional)
 * BONUS: in README the team is encouraged to add some hashtags connected to the topic (#healthcare/#environment/#economicjustice).
-
+* BONUS: add info what would be needed for further development & how people can contribute to your project.
 
 * In [Challenges/](Challenges/) you can find all case challenges that have been contributed and developed during our hackathons.
 * In [Hackathons/](Hackathons/) you can find a summary of each hackathon including all of the projects that have been created.
