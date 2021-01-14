@@ -16,5 +16,7 @@ This Github repo contains information and resources by and for the openhack comm
   * [2017 - Uppsala](Hackathons/2017_Uppsala/2017_Uppsala_Summary.md)
   * [2017 - Gothenburg](Hackathons/2017_Gothenburg/2017_Gothenburg_Summary.md)
   * [2018 - Stockholm](Hackathons/2018_Stockholm)
+  * [2019 - Stockholm](Hackathons/2019_Stockholm)
+  * [2019 - Gothenburg](Hackathons/2019_Gothenburg)
   * [2020 - Gothenburg](Hackathons/2020_Gothenburg)
   * [2020 - Stockholm](Hackathons/2020_hybrid_Stockholm)
